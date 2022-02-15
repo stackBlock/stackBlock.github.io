@@ -19,3 +19,5 @@ I want to make sure everyone has at least a high level view of how the Cardano s
 ### - DO NOT EVER SEND ANYONE YOUR ADA -
 
 Your ada always stays safe in your wallet (Deadalus or Yoroi). No one needs your ada in order to stake them for you. Never give anyone your ada!
+
+<iframe width="500" height="360" frameborder="0" src="https://js.adapools.org/widget-dark.html?pool=ea2da5590f8174fd33c7c9b83fd23b041bcad5ba0678220783a67d6e"><a href="https://adapools.org/pool/ea2da5590f8174fd33c7c9b83fd23b041bcad5ba0678220783a67d6e">Detail</a></iframe>
