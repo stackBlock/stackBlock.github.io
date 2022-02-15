@@ -1,4 +1,5 @@
 ## Welcome To The SoPhi Stake Pool
+**We should now be included in SundaeSwaps single owner pool toek distribution for 1 Epoch - Welsome all and please consider staying for our 0 margin pool!**
 
 We have been on the Cardano block chain since the first epoch that blocks were made by the community, epoch 211. In fact, we were one of the lucky small stake pools that actually minted a block during that epoch. We have been making blocks ever since.
 
