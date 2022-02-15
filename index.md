@@ -14,10 +14,10 @@ The SoPHi stake pool will **never again charge a margin** and we will keep out p
 
 Don’t be fooled by the pools that say they can’t have a zero percent margin and make money – There are many pools that will ask you to delegate with a zero percent margin just to change it once their pool is saturated and their reason will always be because they can’t make money without margin. We will always have a zero percent margin and a 340 ada per epoch fee. The margin and fee will never go up. When we get near saturation, we will open another zero margin pool. If it sounds to good to be true, just do the math – There is no reason to be greedy. The fee currently covers the cost and profit – and when ada goes up, there will be no reason that everyone can’t make a living running a zero margin pool. 
 
+<iframe width="500" height="360" frameborder="0" src="https://js.adapools.org/widget-dark.html?pool=ea2da5590f8174fd33c7c9b83fd23b041bcad5ba0678220783a67d6e"><a href="https://adapools.org/pool/ea2da5590f8174fd33c7c9b83fd23b041bcad5ba0678220783a67d6e">Detail</a></iframe>
+
 I want to make sure everyone has at least a high level view of how the Cardano stake pools work. It’s important in a decentralized and open system that everyone has the ability to understand these things, It is at the core of decentralization… Secondly, I wanted to talk about the future and how I see myself, as the pool operator, running this pool. You should have this information so you can make the correct decision on where to stake your ada — I am in Cardano for the long haul. During this time I will not be taking out any of my ada and will be reinvesting every bit of the rewards that are received. I am not going anywhere.
 
 ### - DO NOT EVER SEND ANYONE YOUR ADA -
 
 Your ada always stays safe in your wallet (Deadalus or Yoroi). No one needs your ada in order to stake them for you. Never give anyone your ada!
-
-<iframe width="500" height="360" frameborder="0" src="https://js.adapools.org/widget-dark.html?pool=ea2da5590f8174fd33c7c9b83fd23b041bcad5ba0678220783a67d6e"><a href="https://adapools.org/pool/ea2da5590f8174fd33c7c9b83fd23b041bcad5ba0678220783a67d6e">Detail</a></iframe>
