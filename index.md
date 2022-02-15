@@ -9,7 +9,7 @@ The stake pool industry has been growing exponentially and at this writing there
 
 ### The SoPHi Pool Economics
 
-The SoPHi stake pool will **never again charge a margin** and we will keep out per epoch fee always set to 340 ada (**the lowest amount allowed**). This means that whether the SoPHi pool creates 1 block or 100 blocks per epoch, SoPHi will only ever receive 500 ada for the epoch. There will never be a margin charge and all the rest of the blocks will be split evenly to the pools delegaters based on their contribution to the pool.
+The SoPHi stake pool will **never again charge a margin** and we will keep out per epoch fee always set to 340 ada (**the lowest amount allowed**). This means that whether the SoPHi pool creates 1 block or 100 blocks per epoch, SoPHi will only ever receive 340 ada for the epoch. There will never be a margin charge and all the rest of the blocks will be split evenly to the pools delegaters based on their contribution to the pool.
 
 ### The Set It And Forget It Pool
 
