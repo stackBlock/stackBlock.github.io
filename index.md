@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome To The SoPhi Stake Pool
 
-You can use the [editor on GitHub](https://github.com/stackBlock/stackBlock.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+We have been on the Cardano block chain since the first epoch that blocks were made by the community, epoch 211. In fact, we were one of the lucky small stake pools that actually minted a block during that epoch. We have been making blocks ever since.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Why We Changed?
 
-### Markdown
+The stake pool industry has been growing exponentially and at this writing there are more then 3000 stake pools on a network that can run perfectly on quarter of that amount. There is a lot of competition and, unfortunately, greed. I was part of that initial group and had my share of greed. But, when you take a step back and look at the overall echosystem, greed doesn’t work – sustainability and growth is the answer. I have reconfigured my pool with those insights in mind.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### The SoPHi Pool Economics
 
-```markdown
-Syntax highlighted code block
+The SoPHi stake pool will **never again charge a margin** and we will keep out per epoch fee always set to 340 ada (**the lowest amount allowed**). This means that whether the SoPHi pool creates 1 block or 100 blocks per epoch, SoPHi will only ever receive 500 ada for the epoch. There will never be a margin charge and all the rest of the blocks will be split evenly to the pools delegaters based on their contribution to the pool.
 
-# Header 1
-## Header 2
-### Header 3
+### The Set It And Forget It Pool
 
-- Bulleted
-- List
+Don’t be fooled by the pools that say they can’t have a zero percent margin and make money – There are many pools that will ask you to delegate with a zero percent margin just to change it once their pool is saturated and their reason will always be because they can’t make money without margin. We will always have a zero percent margin and a 340 ada per epoch fee. The margin and fee will never go up. When we get near saturation, we will open another zero margin pool. If it sounds to good to be true, just do the math – There is no reason to be greedy. The fee currently covers the cost and profit – and when ada goes up, there will be no reason that everyone can’t make a living running a zero margin pool. 
 
-1. Numbered
-2. List
+I want to make sure everyone has at least a high level view of how the Cardano stake pools work. It’s important in a decentralized and open system that everyone has the ability to understand these things, It is at the core of decentralization… Secondly, I wanted to talk about the future and how I see myself, as the pool operator, running this pool. You should have this information so you can make the correct decision on where to stake your ada — I am in Cardano for the long haul. During this time I will not be taking out any of my ada and will be reinvesting every bit of the rewards that are received. I am not going anywhere.
 
-**Bold** and _Italic_ and `Code` text
+### - DO NOT EVER SEND ANYONE YOUR ADA -
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/stackBlock/stackBlock.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Your ada always stays safe in your wallet (Deadalus or Yoroi). No one needs your ada in order to stake them for you. Never give anyone your ada!
