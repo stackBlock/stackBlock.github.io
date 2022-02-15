@@ -13,7 +13,7 @@ The SoPHi stake pool will **never again charge a margin** and we will keep out p
 
 ### The Set It And Forget It Pool
 
-Don’t be fooled by the pools that say they can’t have a zero percent margin and make money – There are many pools that will ask you to delegate with a zero percent margin just to change it once their pool is saturated and their reason will always be because they can’t make money without margin. We will always have a zero percent margin and a 340 ada per epoch fee. The margin and fee will never go up. When we get near saturation, we will open another zero margin pool. If it sounds to good to be true, just do the math – There is no reason to be greedy. The fee currently covers the cost and profit – and when ada goes up, there will be no reason that everyone can’t make a living running a zero margin pool. 
+Don’t be fooled by the pools that say they can’t have a zero percent margin and make money – There are many pools that will ask you to delegate with a zero percent margin just to change it once their pool is saturated. We will always have a zero percent margin and a 340 ada per epoch fee. The margin and fee on this pool will never go up. 
 
 <iframe width="500" height="360" frameborder="0" src="https://js.adapools.org/widget-dark.html?pool=ea2da5590f8174fd33c7c9b83fd23b041bcad5ba0678220783a67d6e"><a href="https://adapools.org/pool/ea2da5590f8174fd33c7c9b83fd23b041bcad5ba0678220783a67d6e">Detail</a></iframe>
 
